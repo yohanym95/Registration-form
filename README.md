@@ -1,11 +1,11 @@
 # Registration-form
 
-1.use android and java for this registration form.
+1.use android and java for this registration form app.
 
 
 
 
-2.Also use Strong Password 
+2.Also use Strong Password :
 
 
  Strong Password- 
