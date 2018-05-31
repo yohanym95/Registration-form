@@ -1,13 +1,15 @@
 # Registration-form
 
-1.use android and java for this registration form app.
+1.use android and java for this registration form application.
+
+
+
+2.I use android studio for develop this basic application.
 
 
 
 
-
-
-2.Also use Strong Password :
+3.Also use Strong Password :
 
 
  Strong Password- 
